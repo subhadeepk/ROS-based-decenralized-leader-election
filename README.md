@@ -25,6 +25,6 @@ This algorithm was made for a swarm of drones which will have to elect a new lea
 
 In the simulation, main_script.py initializes every node. To run this on an independent node, you'd have to run node.py on it after changing all the parameters inside node.py. 
 
-##Note:
+## NOTE
 The code is not clean but it should work. Feel free to reach out if you have any suggestions or ideas for improving this framework. Discord: crimsonblues3667  Email:ksubhadeepwork@gmail.com
 

@@ -1,0 +1,13 @@
+1. takeoff manually
+2. switch to guided
+3. mission 
+ mission - 
+ 1. set of waypoints hardcoded
+ 2. 
+
+ Followers:
+ 1. switch to guided
+ 2. auto takeoff 
+ 3. start following
+ 4. get request and do stuff
+ 5. breaks formation, execute independent waypoints from onboard computer

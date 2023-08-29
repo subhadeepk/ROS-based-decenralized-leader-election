@@ -1,0 +1,3 @@
+1. Fittest node is sending msgs to every node repeatedly
+2. Nodes that start up first are looping through every other node and failing to send in first round. They are sending in second round of scanning
+3. The small differences in looping/starting time is making the nodes send redundant messages/service requests. 

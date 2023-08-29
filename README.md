@@ -1,5 +1,7 @@
 # Decentralized leader election framework built on ROS Noetic
 
+
+
 ## See if it works right away:
 
 1. Download the repository and place it inside the src folder of your catkin
@@ -22,4 +24,7 @@ This algorithm was made for a swarm of drones which will have to elect a new lea
 ## Using it for your own multi-robot framework
 
 In the simulation, main_script.py initializes every node. To run this on an independent node, you'd have to run node.py on it after changing all the parameters inside node.py. 
+
+##Note:
+The code is not clean but it should work. Feel free to reach out if you have any suggestions or ideas for improving this framework. Discord: crimsonblues3667  Email:ksubhadeepwork@gmail.com
 

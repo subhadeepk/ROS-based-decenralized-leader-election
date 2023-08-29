@@ -16,7 +16,7 @@
 It simulates n rosnodes that interact with eachother using ROS services.  Random fitness values are assigned to each node and the node with the highest fitness values is elected as the leader. They elect a new leader using an algorithm demonstrated by the the following pseudocode:
 
 ```
-![Leader election algorithm](https://github.com/wickedticket/  ROS-based-decenralized-leader-election/blob/main/LE_election.png?raw=true)
+![Leader election algorithm](https://github.com/wickedticket/ROS-based-decenralized-leader-election/blob/main/LE_election.png?raw=true)
 ```
 This algorithm was made for a swarm of drones which will have to elect a new leader once the old leader goes offline. You can learn more about the framework [here](https://drive.google.com/file/d/129GMESgDbCwmpxd7BE9MdZqJg7M6vLed/view?usp=sharing)
 
